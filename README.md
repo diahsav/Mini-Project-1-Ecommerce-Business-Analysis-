@@ -1,7 +1,10 @@
 # Mini-Project-1-Ecommerce-Business-Analysis-
-Mini Project for SQL course at Data Science Bootcamp
+Mini Project for SQL course at Data Science Bootcamp.
+
 About analyzing e-commerce business performance using SQL.
+
 Business metrics analyzed here are :  customer growth, product quality, and payment method used by customer
+
 
 Dataset from :
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
