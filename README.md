@@ -7,5 +7,7 @@ Business metrics analyzed here are :  customer growth, product quality, and paym
 
 
 Dataset from :
+
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 Contains information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil
